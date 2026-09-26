@@ -1,0 +1,6 @@
+{
+  "name": "Lớp Học Cô Trâm - Lớp 6A4",
+  "description": "Ứng dụng quản lý lớp học thông minh, bảng sticker học sinh, tích điểm thưởng và thi đua học tập Lớp 6A4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
